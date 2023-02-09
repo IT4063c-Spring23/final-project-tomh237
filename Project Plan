@@ -1,0 +1,14 @@
+Topic - Correlation between Oil prices, currency valuation and consumer prices
+
+Questions - How does the cost of oil cause fluctuations in the valuation of various currencies and how does it affect the cost of items for consumers.
+        Side Note - The scope will be from January 2009 to December 2019 due to the Covid pandemic's affect on data between March 2020 and December 2021 and 
+        Russian invasion of Ukraine causing an oil panic
+        
+Sample preliminary answer contained within PowerBI file
+
+Data sources are government and economic online sources
+
+Government data is via database, economic via API. Data was pulled from these methods and placed into Excel files. 
+All data subsequently uploaded to project via Excel file
+
+Data is connected via months of year from 2009-2019
