@@ -1,0 +1,14 @@
+Machine Learning will be Supervised ML
+I don't anticipate any major issues within the ML itself but rather comparisons to real-life values
+There's not much that can be done to address this since the cause of the potential issue was unprecedented (a global pandemic)
+
+Implementation Process:
+
+Visualize all data to look for any discrepancies or missing data, using averages for the year to fill in missing data
+Split training sets in a 75/25 split for each year of the specified decade
+Clean data using sci-kit
+Categorical data will be X value as the only categorical data is month/year
+I would expect that Linear Regression will be the best for the data, but will try a number of options
+
+Feedback:
+No major feedback or changes, PowerBI file is only for reference
